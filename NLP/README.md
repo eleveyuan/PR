@@ -10,3 +10,9 @@
 4. Morin F, Bengio Y. Hierarchical probabilistic neural network language model[C]//International workshop on artificial intelligence and statistics. PMLR, 2005: 246-252. [issue link](https://github.com/eleveyuan/PR/issues/6)
 5. Bengio Y. New distributed probabilistic language models[J]. 2002. [issue link](https://github.com/eleveyuan/PR/issues/5)
 6. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10)
+
+
+## fasttext
+1. Bojanowski P, Grave E, Joulin A, et al. Enriching word vectors with subword information[J]. Transactions of the association for computational linguistics, 2017, 5: 135-146.
+2. Joulin A, Grave E, Bojanowski P, et al. Bag of tricks for efficient text classification[J]. arXiv preprint arXiv:1607.01759, 2016.
+3. Joulin A, Grave E, Bojanowski P, et al. Fasttext. zip: Compressing text classification models[J]. arXiv preprint arXiv:1612.03651, 2016.
