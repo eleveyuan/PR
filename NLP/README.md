@@ -9,8 +9,12 @@
 3. Bengio Y, Senécal J S. Quick training of probabilistic neural nets by importance sampling[C]//International Workshop on Artificial Intelligence and Statistics. PMLR, 2003: 17-24. [issue link](https://github.com/eleveyuan/PR/issues/4)
 4. Morin F, Bengio Y. Hierarchical probabilistic neural network language model[C]//International workshop on artificial intelligence and statistics. PMLR, 2005: 246-252. [issue link](https://github.com/eleveyuan/PR/issues/6)
 5. Bengio Y. New distributed probabilistic language models[J]. 2002. [issue link](https://github.com/eleveyuan/PR/issues/5)
-6. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10)
 
+## word2vec
+1. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10)
+
+## Glove
+1. Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C]//Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014: 1532-1543.
 
 ## fasttext
 1. Bojanowski P, Grave E, Joulin A, et al. Enriching word vectors with subword information[J]. Transactions of the association for computational linguistics, 2017, 5: 135-146.
