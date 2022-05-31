@@ -11,7 +11,7 @@
 5. Bengio Y. New distributed probabilistic language models[J]. 2002. [issue link](https://github.com/eleveyuan/PR/issues/5)
 
 ## word2vec
-1. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10)
+1. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10) [源码阅读](https://github.com/eleveyuan/gist_reading/tree/master/c/word2vec#word2vec)
 
 ## Glove
 1. Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C]//Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014: 1532-1543.
