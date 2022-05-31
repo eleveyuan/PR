@@ -14,7 +14,7 @@
 1. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10) [源码阅读](https://github.com/eleveyuan/gist_reading/tree/master/c/word2vec#word2vec)
 
 ## Glove
-1. Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C]//Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014: 1532-1543.
+1. Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C]//Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014: 1532-1543. [issue link](https://github.com/eleveyuan/PR/issues/12)
 
 ## fasttext
 1. Bojanowski P, Grave E, Joulin A, et al. Enriching word vectors with subword information[J]. Transactions of the association for computational linguistics, 2017, 5: 135-146.
