@@ -16,8 +16,8 @@
 ## GloVe
 global vector
 
-1. Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C]//Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014: 1532-1543. [issue link](https://github.com/eleveyuan/PR/issues/12)
-2. Huang E H, Socher R, Manning C D, et al. Improving word representations via global context and multiple word prototypes[C]//Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2012: 873-882. [issue link](https://github.com/eleveyuan/PR/issues/13)
+1. Huang E H, Socher R, Manning C D, et al. Improving word representations via global context and multiple word prototypes[C]//Proceedings of the 50th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2012: 873-882. [issue link](https://github.com/eleveyuan/PR/issues/13)
+2. Pennington J, Socher R, Manning C D. Glove: Global vectors for word representation[C]//Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP). 2014: 1532-1543. [issue link](https://github.com/eleveyuan/PR/issues/12)
 
 ## fasttext
 1. Bojanowski P, Grave E, Joulin A, et al. Enriching word vectors with subword information[J]. Transactions of the association for computational linguistics, 2017, 5: 135-146.
