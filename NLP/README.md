@@ -12,7 +12,7 @@
 
 ## word2vec
 1. Rong X. word2vec parameter learning explained[J]. arXiv preprint arXiv:1411.2738, 2014. [issue link](https://github.com/eleveyuan/PR/issues/10) [源码阅读](https://github.com/eleveyuan/gist_reading/tree/master/c/word2vec#word2vec)
-2. Levy O, Goldberg Y, Dagan I. Improving distributional similarity with lessons learned from word embeddings[J]. Transactions of the association for computational linguistics, 2015, 3: 211-225.
+2. Levy O, Goldberg Y, Dagan I. Improving distributional similarity with lessons learned from word embeddings[J]. Transactions of the association for computational linguistics, 2015, 3: 211-225. [issue link](https://github.com/eleveyuan/PR/issues/15)
 
 ## GloVe
 global vector
