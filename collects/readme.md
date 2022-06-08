@@ -34,3 +34,8 @@ we represent ... as ...
 ## 一些好的句子
 
 we shed some light on this question.  进一步阐明这个问题
+
+
+## 一些格式是文章不死板
+block formula + where 解释变量
+inline formula + wherein 解释变量
