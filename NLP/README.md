@@ -28,7 +28,7 @@ global vector
 3. Joulin A, Grave E, Bojanowski P, et al. Fasttext. zip: Compressing text classification models[J]. arXiv preprint arXiv:1612.03651, 2016.
 
 ## transformer
-1. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30. [issue link](https://github.com/eleveyuan/PR/issues/17)
+1. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30. [issue link](https://github.com/eleveyuan/PR/issues/17) [代码](https://github.com/eleveyuan/pure_transformer)
 
 ## BERT
 1. Devlin J, Chang M W, Lee K, et al. Bert: Pre-training of deep bidirectional transformers for language understanding[J]. arXiv preprint arXiv:1810.04805, 2018.
