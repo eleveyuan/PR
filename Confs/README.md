@@ -6,7 +6,7 @@
 | IEEE Conference on Computer Vision and Pattern Recognition | CVPR | 计算视觉、模式识别 |
 | International Conference on Computer Vision | ICCV | 计算视觉 |
 | International Conference on Machine Learning | ICML | 机器学习 |
-| Annual Meeting of the Association for Computational Linguistics | 自然语言 |
+| Annual Meeting of the Association for Computational Linguistics | ACL | 自然语言 |
 | European Conference on Computer Vision | ECCV | 计算视觉 |
 | Annual Conference on Computational Learning Theory | COLT | 计算机学习理论 |
 | Annual Conference on Neural Information Processiong Systems | NeurIPS |  |
