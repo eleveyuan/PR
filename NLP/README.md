@@ -30,12 +30,13 @@ global vector
 ## transformer
 1. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[J]. Advances in neural information processing systems, 2017, 30. [issue link](https://github.com/eleveyuan/PR/issues/17) [代码](https://github.com/eleveyuan/pure_transformer)
 
-## BERT
-1. Devlin J, Chang M W, Lee K, et al. Bert: Pre-training of deep bidirectional transformers for language understanding[J]. arXiv preprint arXiv:1810.04805, 2018.
-2. Liu Y, Ott M, Goyal N, et al. Roberta: A robustly optimized bert pretraining approach[J]. arXiv preprint arXiv:1907.11692, 2019.
+## ELMo 
+1. Sarzynska-Wawer J, Wawer A, Pawlak A, et al. Detecting formal thought disorder by deep contextualized word representations[J]. Psychiatry Research, 2021, 304: 114135. [issue link](https://github.com/eleveyuan/PR/issues/19)
 
 ## GPT 
-1. Radford A, Narasimhan K, Salimans T, et al. Improving language understanding by generative pre-training[J]. 2018.
+1. Radford A, Narasimhan K, Salimans T, et al. Improving language understanding by generative pre-training[J]. 2018. [issue link](https://github.com/eleveyuan/PR/issues/20)
 
-## ELMo 
-1. Sarzynska-Wawer J, Wawer A, Pawlak A, et al. Detecting formal thought disorder by deep contextualized word representations[J]. Psychiatry Research, 2021, 304: 114135.
+## BERT
+1. Devlin J, Chang M W, Lee K, et al. Bert: Pre-training of deep bidirectional transformers for language understanding[J]. arXiv preprint arXiv:1810.04805, 2018. [issue link](https://github.com/eleveyuan/PR/issues/21)
+2. Liu Y, Ott M, Goyal N, et al. Roberta: A robustly optimized bert pretraining approach[J]. arXiv preprint arXiv:1907.11692, 2019.[issue link](https://github.com/eleveyuan/PR/issues/22)
+
