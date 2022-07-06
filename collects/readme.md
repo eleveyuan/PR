@@ -35,6 +35,8 @@ we represent ... as ...
 
 we shed some light on this question.  进一步阐明这个问题
 
+a ad-hoc solution 一个特别的解决方案
+
 
 ## 一些格式让文章不死板
 block formula + where 解释变量 <br />
