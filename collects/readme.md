@@ -39,6 +39,10 @@ a ad-hoc solution 一个特别的解决方案
 
 For the sake of ... 为了XX
 
+In a nutshell 简单来说
+
+As the name suggests.. 顾名思义
+
 
 ## 一些格式让文章不死板
 block formula + where 解释变量 <br />
