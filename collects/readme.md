@@ -45,6 +45,7 @@ As the name suggests.. 顾名思义
 
 we use of an off-the-shelf something 使用现成的something
 
+it take as input something 把something作为输入
 
 ## 一些格式让文章不死板
 block formula + where 解释变量 <br />
