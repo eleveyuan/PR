@@ -23,6 +23,10 @@
 2. Wang X, Ji H, Shi C, et al. Heterogeneous graph attention network[C]//The world wide web conference. 2019: 2022-2032.
 3. Yun S, Jeong M, Kim R, et al. Graph transformer networks[J]. Advances in neural information processing systems, 2019, 32.
 
+## Hypergraph
+
+1. [EMNLP2020] Ding K, Wang J, Li J, et al. Be more with less: Hypergraph attention networks for inductive text classification[J]. arXiv preprint arXiv:2011.00387, 2020.
+
 
 ## other debate about Graph neural networks
 
