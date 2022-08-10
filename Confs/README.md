@@ -34,7 +34,7 @@
 | International Conference on Automatic Face and Gesture Recognition | FG | |
 | International Conference on Document Analysis and Recognition | ICDAR | |
 | IEEE\RSJ International Conference on Intelligent Robots and Systems | IROS | |
-| International Conference on Computational Linguistics | COLING | |
+| International Conference on Computational Linguistics | COLING | 自然语言处理 |
 | International Joint Conference on Neural Networks | IJCNN | |
 | International Conference on Uncertainty in Artificial Intelligence | UAI ||
 | International Conference on Algorithmic Learning Theory | RecSys ||
