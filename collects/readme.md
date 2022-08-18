@@ -47,6 +47,8 @@ we use of an off-the-shelf something 使用现成的something
 
 it take as input something 把something作为输入
 
+by drawing on sth. 利用sth(e.g. he draw on his experiences, 他利用自己的经验)
+
 ## 一些格式让文章不死板
 block formula + where 解释变量 <br />
 inline formula + wherein 解释变量
