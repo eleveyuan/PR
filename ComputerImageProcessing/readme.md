@@ -1,0 +1,2 @@
+### Computer Image Processing
+1. Wang S, Leroy V, Cabon Y, et al. DUSt3R: Geometric 3D Vision Made Easy[J]. arXiv preprint arXiv:2312.14132, 2023.[issue link](https://github.com/eleveyuan/PR/issues/24) [code](https://github.com/naver/dust3r)
